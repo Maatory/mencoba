@@ -35,6 +35,8 @@ suisin = Hero("Suisin",100,10,25)
 minvac = Hero("Minvac",100,10,25)
 
 cianch.serang(suisin)
+cianch.serang(suisin)
+
 
 
 
